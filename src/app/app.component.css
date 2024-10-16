@@ -1,0 +1,49 @@
+
+
+button{
+    background-color: #f35aa7;
+    border: none;
+    color: white;
+}
+
+button:hover{
+    background-color: #f35aa7;
+    color: white;
+}
+
+.form-check-input{
+    border-color: #f35aa7;
+    border-radius: 0;
+    height: 20px;
+    width: 20px;
+    
+}
+
+.form-check-input:checked{
+    background-color: #f35aa7;
+}
+
+a{
+    color: #f35aa7;
+}
+
+.left{
+    margin-bottom: 100px;
+}
+
+.box{
+    height: 150px;
+    width: 250px;
+    padding: 10px;
+    background-color: rgba(99, 174, 243, 0.6);
+    border-radius: 15px;
+    color: white;
+    text-shadow: 1px 1px 5px rgb(105, 105, 105);
+    display: grid;
+    align-items: center;
+   
+}
+
+.shopImage{
+    height: 50px;
+}
